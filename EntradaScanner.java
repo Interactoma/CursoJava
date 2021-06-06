@@ -25,6 +25,7 @@ public class EntradaScanner {
         mensaje += "\n" + numeroHexadecimal;
         mensaje += "\n" + numeroOctal;
         System.out.println(mensaje);
+        
 
 
     }
